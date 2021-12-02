@@ -1,0 +1,9 @@
+.nav {
+  box-sizing: border-box;
+  position: relative;
+  top: -8px;
+  left: -8px;
+  background-color: black;
+  width: 900px;
+  color: lightblue;
+}
